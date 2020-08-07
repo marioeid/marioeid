@@ -1,5 +1,5 @@
 ### Hi there 👋
-![welcome](https://user-images.githubusercontent.com/24479105/89667933-4aa63500-d8dd-11ea-9b9f-966428c6cc10.png)
+![welcome to my github Mr Algorithms says hello](https://user-images.githubusercontent.com/24479105/89692354-b7d0bf00-d90b-11ea-88d5-ffaf57722195.png)
 
 
 
