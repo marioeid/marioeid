@@ -7,6 +7,8 @@
     <a href="https://www.youtube.com/channel/UCVHLc9yPGHWMPjpgnSpUItA?view_as=subscriber"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
     <a href="https://www.instagram.com/the_yellow_flash_semi_colon/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
-  
+
+   <img src="https://user-images.githubusercontent.com/24479105/89694559-514e9f80-d911-11ea-81a0-9d5fee758b13.png" align="left" width="25%"/>
+
 #### hi there ,i am mario eid (Mr Algorithms is what i like to call my self) i am passionate about math and science in general i like the applications of science how it really can change the world ,i am currently studing machine learning and basic science i also have a good experience in competitive programming .  
 
