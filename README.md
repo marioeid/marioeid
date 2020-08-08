@@ -15,15 +15,15 @@
 
 <dl>
   <dt>Deep Learning </dt>
-  <dd><h6>finished 6 projects in deep learning udemy certificated course Deep learning from a to z</dd>
+  <dd>finished 6 projects in deep learning udemy certificated course Deep learning from a to z</dd>
     <hr>
   <dt>Machine learning</dt>
-  <dd><h6>finished 9 sections out of 10 (currrently working on the last one) with many projects (udemy certificated coure machine learning from a to z)</dd>
+  <dd>finished 9 sections out of 10 (currrently working on the last one) with many projects (udemy certificated coure machine learning from a to z)</dd>
    <hr>
    <dt>web development</dt>
-   <dd><h6>finished 3 or 4 projects one front end template and one php ecommerce and the last one was laravel crud system based blog the last project was a blog with pure php </dd>
+   <dd>finished 3 or 4 projects one front end template and one php ecommerce and the last one was laravel crud system based blog the last project was a blog with pure php </dd>
    <hr>
 <dt>competitive programming and basic science</dt>
-   <dd><h6>two years ECPC contestant ,i am a huge science lover, good at math combinatorics statistics and geometry, math and number theory , graph theory , datastructures , algorithms ,i love basic science in general </dd>
+   <dd>two years ECPC contestant ,i am a huge science lover, good at math combinatorics statistics and geometry, math and number theory , graph theory , datastructures , algorithms ,i love basic science in general </dd>
  <hr>
 </dl>
