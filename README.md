@@ -1,5 +1,5 @@
 ### Hi there 👋
-![welcome to my github Mr Algorithms says hello](https://user-images.githubusercontent.com/24479105/89692354-b7d0bf00-d90b-11ea-88d5-ffaf57722195.png)
+![welcome to my github Mr Algorithms says hello](https://github.com/user-attachments/assets/15c93433-c1b2-4c00-b906-a6e13a5114e2)
 
 <p align="center">
     <a href="https://twitter.com/marioeid0106001"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
